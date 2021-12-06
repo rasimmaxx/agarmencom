@@ -1,4 +1,4 @@
-# MultiOgar-Edited
+# Agarmen-Edition
 Agarmen edition. I've got the project from below given links and worked on it.
 Added some and new cool features like gold, keys, freeze, explode systems.
 
